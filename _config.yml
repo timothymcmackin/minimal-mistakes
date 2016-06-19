@@ -96,6 +96,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _portfolio
@@ -106,6 +109,17 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Reading Files
 include:
