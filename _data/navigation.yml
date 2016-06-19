@@ -12,5 +12,5 @@ main:
 #  - title: "Sample Pages"
 #    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
 
-  - title: "Test Pages"
-    url: /testpages/
+#  - title: "Test Pages"
+#    url: /testpages/
