@@ -50,3 +50,5 @@ This scenario above is all [slideware](http://c2.com/cgi/wiki?SlideWare); none o
 I'm hoping that if we can get this continuous, accurate information to the TCs (the “Ops” side in this DevOps allegory), they can put that info to good use and pass the benefits on to the writers and developers. Of course, we also run into the problem of changing the culture to support DevOps principles, but I'm going to have to leave that for another blog post.
 
 This is a small step in using DevOps principles to improve our documentation efforts, and I'm just getting started. I'd be thrilled to hear if anyone else is getting into this kind of work or has thoughts about it, so get in touch.
+
+[test link to PDF](../files/TimothyMcMackin.pdf)
