@@ -4,7 +4,13 @@ permalink: /no-more-waterfall-word-counts/
 date: 2014-03-05
 layout: single
 sitemap: false
-tags: invisiblethread,residency,devops,word-counts,monitoring,translation
+tags: 
+- invisiblethread
+- residency
+- devops
+- word counts
+- monitoring
+- translation
 ---
 
 *Cross-posted to [The Invisible Thread](https://www.ibm.com/developerworks/community/blogs/invisiblethread/entry/no_more_waterfall_word_counts_how_devops_can_smooth_the_documentation_process?lang=en) as part of the DevOps social media residency*
